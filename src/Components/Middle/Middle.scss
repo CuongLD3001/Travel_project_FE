@@ -28,6 +28,7 @@
 
     .secContainer{
         .grid{
+            box-sizing: border-box;
             padding: 3rem;
             border-radius: var(--borderRadius);
             background:var(--primaryColorLight);
